@@ -1,0 +1,16 @@
+regions:
+- global
+
+account-blacklist:
+- "999999999999"
+
+resource-types:
+  excludes:
+  - IAMUser
+  - IAMUserPolicyAttachment
+  - IAMUserAccessKey
+  - OSPackage
+  - IAMVirtualMFADevice
+
+accounts:
+ <ACCOUNT_ID>:
