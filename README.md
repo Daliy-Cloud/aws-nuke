@@ -35,7 +35,6 @@ https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-install.h
 6. PowerShell을 관리자 권한으로 실행한다.
 
 <br>
-<br>
 
 7. aws configure을 설정한다.
 <img width="874" height="218" alt="Image" src="https://github.com/user-attachments/assets/f33798dd-31ba-43ef-9627-01e97533ba5c" />
