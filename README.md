@@ -6,7 +6,7 @@ https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-install.h
 
 <br>
 
-1. https://github.com/rebuy-de/aws-nuke/releases에 접근 후 window.zip을 다운로드 한다.
+1. https://github.com/rebuy-de/aws-nuke/releases 에 접근 후 window.zip을 다운로드 한다.
 <img width="1127" height="405" alt="Image" src="https://github.com/user-attachments/assets/1283247e-1bb9-4e73-8bdc-6d39aee5346c" />
 
 <br>
