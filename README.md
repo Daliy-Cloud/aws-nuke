@@ -16,6 +16,7 @@ https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-install.h
 <img width="782" height="141" alt="Image" src="https://github.com/user-attachments/assets/7af1da19-4dac-4221-9d80-e93672af7312" />
 
 <br>
+<br>
 
 3. aws nuke를 C:\Windows\System32 경로에 넣는다.
 
@@ -29,14 +30,17 @@ https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-install.h
 <img width="969" height="274" alt="Image" src="https://github.com/user-attachments/assets/8865d672-41f9-4758-9a53-f8b015e57a69" />
 
 <br>
+<br>
 
 6. PowerShell을 관리자 권한으로 실행한다.
 
+<br>
 <br>
 
 7. aws configure을 설정한다.
 <img width="874" height="218" alt="Image" src="https://github.com/user-attachments/assets/f33798dd-31ba-43ef-9627-01e97533ba5c" />
 
+<br>
 <br>
 
 8. C:\Users\user경로로 이동한다.
