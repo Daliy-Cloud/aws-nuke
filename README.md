@@ -10,6 +10,7 @@ https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/getting-started-install.h
 <img width="1127" height="405" alt="Image" src="https://github.com/user-attachments/assets/1283247e-1bb9-4e73-8bdc-6d39aee5346c" />
 
 <br>
+<br>
 
 2. 해당 zip 파일을 압축을 푼 후 이름을 aws-nuke로 이름을 변경한다.
 <img width="782" height="141" alt="Image" src="https://github.com/user-attachments/assets/7af1da19-4dac-4221-9d80-e93672af7312" />
