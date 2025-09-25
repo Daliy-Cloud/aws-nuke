@@ -67,7 +67,7 @@ resource-types:
   - IAMUser
   - IAMUserPolicyAttachment
   - IAMUserAccessKey
-  - Route53HostedZone
+  - IAMVirtualMFADevice
   - OSPackage
 
 accounts:

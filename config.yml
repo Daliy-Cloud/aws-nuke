@@ -9,8 +9,8 @@ resource-types:
   - IAMUser
   - IAMUserPolicyAttachment
   - IAMUserAccessKey
-  - OSPackage
   - IAMVirtualMFADevice
+  - OSPackage
 
 accounts:
  <ACCOUNT_ID>:
