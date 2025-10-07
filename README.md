@@ -56,6 +56,15 @@ notepad config.yml
 
 ```yaml
 regions:
+- us-east-1
+- us-east-2
+- us-west-1
+- us-west-2
+- ap-northeast-1
+- ap-northeast-2
+- ap-northeast-3
+- ap-southeast-1
+- ap-southeast-2
 - global
 
 account-blacklist:
@@ -66,11 +75,20 @@ resource-types:
   - IAMUser
   - IAMUserPolicyAttachment
   - IAMUserAccessKey
-  - IAMVirtualMFADevice
+  - Route53HostedZone
   - OSPackage
+  - IAMVirtualMFADevice
 
 accounts:
- <ACCOUNT_ID>: {}
+ <ACCOUNT_ID>:
+     filters:
+      IAMUser:
+      - "aws-nuke-user"
+      IAMUserPolicyAttachment:
+      - property: RoleName
+        value: "aws-nuke-user"
+      IAMUserAccessKey:
+      - property: UserName
 ```
 
 <br>
